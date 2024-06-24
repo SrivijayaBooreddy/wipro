@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ipl-pod
+spec:
+  containers:
+    - name: demo-container
+      image: daviddocker526/ipl
+      ports:
+        - containerPort: 80
+

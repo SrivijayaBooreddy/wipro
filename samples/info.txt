@@ -1,0 +1,5 @@
+This file edit is done by nano editor
+welcome to vi editor
+write in the editor
+code in the editor
+
